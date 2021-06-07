@@ -1,3 +1,4 @@
+#!/bin/bash
 # V1 by rchallie
 
 helper() {
